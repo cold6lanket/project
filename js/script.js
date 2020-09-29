@@ -1,4 +1,4 @@
 "use strict";
 
 const user = 'alex';
-alert(`Hello, ${user}`)
+alert(`Hello, ${user}`);
